@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @alakhsaran
--  I’m currently learning web development
 -  Each line of code,if it works,cause something to happen in the console.
 
 <!---
